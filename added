@@ -1,0 +1,41 @@
+[33mcommit 5f768a10cb63cff91f614c2fc7a4b5524b4904a2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Fri Jun 7 01:50:44 2019 +0600
+
+    fixed performance issues and added PWA functionalities
+
+[33mcommit 04fd45560edca81950a84d752d7c63536ca8df9c[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Tue Jun 4 14:16:51 2019 +0600
+
+    added redux-logger for state logging and redux-thunk middleware
+
+[33mcommit 02e05bf63367e67f43ee1a1eada79e49df7a1315[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Tue Jun 4 01:05:34 2019 +0600
+
+    added redux and react-redux for state management
+
+[33mcommit 6c4e7a0125868d272b824a6aedcc58f5baf58cb9[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Mon Jun 3 22:49:02 2019 +0600
+
+    added error catching of components
+
+[33mcommit 61c8ea1cb0c446bb362dd5707a7a95b249b36f84[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Sun Jun 2 15:33:07 2019 +0600
+
+    added build and fixed skeleton
+
+[33mcommit c1edc8bd2fb698f00fb57dcb9c777330ced78eac[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Sun Jun 2 12:11:04 2019 +0600
+
+    added search functionalities
+
+[33mcommit c96fa32e71baf0090c956900611af593a8c3bca1[m
+Author: Sudipto Chowdhury <dip.acm77@gmail.com>
+Date:   Sat Jun 1 12:13:49 2019 +0600
+
+    added project skeleton file

@@ -1,5 +1,0 @@
-.overflow {
-    overflow-y: scroll;
-    border: 5px solid black;
-    height: calc(100vh - 180px);
-}
